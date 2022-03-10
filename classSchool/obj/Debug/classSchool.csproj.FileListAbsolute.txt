@@ -1,0 +1,12 @@
+C:\Users\build\source\repos\classSchool\bin\Debug\classSchool.dll
+C:\Users\build\source\repos\classSchool\bin\Debug\classSchool.pdb
+C:\Users\build\source\repos\classSchool\obj\Debug\classSchool.csproj.AssemblyReference.cache
+C:\Users\build\source\repos\classSchool\obj\Debug\classSchool.csproj.CoreCompileInputs.cache
+C:\Users\build\source\repos\classSchool\obj\Debug\classSchool.dll
+C:\Users\build\source\repos\classSchool\obj\Debug\classSchool.pdb
+C:\Users\Админ\Desktop\classSchool\bin\Debug\classSchool.dll
+C:\Users\Админ\Desktop\classSchool\bin\Debug\classSchool.pdb
+C:\Users\Админ\Desktop\classSchool\obj\Debug\classSchool.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\classSchool\obj\Debug\classSchool.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\classSchool\obj\Debug\classSchool.dll
+C:\Users\Админ\Desktop\classSchool\obj\Debug\classSchool.pdb
